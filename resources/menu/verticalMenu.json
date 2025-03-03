@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons bx bx-home-smile",
+      "slug": "dashboard-modules"
+    },
+    {
+      "url": "modules/",
+      "name": "Modules",
+      "icon": "menu-icon tf-icons bx bx-station",
+      "slug": "modules.index"
+    },
+    {
+      "url": "historique/donnees",
+      "name": "Historique des donnees",
+      "icon": "menu-icon tf-icons bx bxs-data",
+      "slug": "donnees_modules.index"
+    },
+    {
+      "url": "historique/etats",
+      "name": "Historique des états",
+      "icon": "menu-icon tf-icons bx bx-power-off",
+      "slug": "etat_modules.index"
+    }
+  ]
+}
