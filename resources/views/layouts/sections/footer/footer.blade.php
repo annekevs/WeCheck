@@ -9,9 +9,9 @@ $containerFooter = !empty($containerNav) ? $containerNav : 'container-fluid';
       <div class="text-body">
         © <script>
           document.write(new Date().getFullYear())
-        </script>, made with ❤️ by <a
-          href="{{ (!empty(config('variables.creatorUrl')) ? config('variables.creatorUrl') : '') }}" target="_blank"
-          class="footer-link">{{ (!empty(config('variables.creatorName')) ? config('variables.creatorName') : '') }}</a>
+        </script>, made with ❤️ by <a href="{{ (!empty(config('variables.creatorUrl')) ? config('.creatorUrl') : '') }}"
+          target="_blank" class="footer-link">{{ (!empty(config('variables.creatorName')) ?
+          config('variables.creatorName') : '') }} usin</a>
       </div>
     </div>
   </div>
