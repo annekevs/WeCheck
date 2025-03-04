@@ -183,6 +183,6 @@ You can watch the video [here](https://drive.google.com/file/d/1NWeJDCp5TEMxMwAI
 
 - **Nom** : Anne Kevina Nguen
 - **Email** : annekevinanguen091@example.com
-- **GitHub** : [Votre Profil GitHub](https://github.com/annekevs)
+- **GitHub** : [Mon Profil GitHub](https://github.com/annekevs)
 
 ---
