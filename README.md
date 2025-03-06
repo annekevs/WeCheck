@@ -1,4 +1,4 @@
-# IoT Monitoring Application - WeCheck
+# Realtime IoT Monitoring Application - WeCheck
 
 ## Description
 
