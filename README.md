@@ -2,7 +2,7 @@
 
 ## Description
 
-WeCheck est une application web développée avec Laravel pour surveiller et suivre l’état des modules IoT. Elle permet de visualiser l’historique des mesures, de détecter les pannes, d’afficher des notifications en temps réel et d’analyser les données collectées.
+WeCheck est une application web pour surveiller et suivre en temps réel l’état des modules IoT. Elle permet de visualiser l’historique des mesures, de détecter les pannes, d’afficher des notifications en temps réel et d’analyser les données collectées.
 
 ## Technologies utilisées
 
